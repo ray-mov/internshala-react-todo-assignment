@@ -1,8 +1,59 @@
-# React + Vite
+# "To-Do List application"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+● This project is a Online Library System build using react and tailwind css with vite
+simple To-Do List application.
+● The application allows users to add, delete, and mark tasks as completed
 
-Currently, two official plugins are available:
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation
+
+```bash
+To install and run this project locally, follow these steps:
+```
+
+Prerequisites
+
+```bash
+- Node.js and npm installed (get it from [here](https://nodejs.org/)).
+- Ensure you are running Node.js version >=14.0.0.
+```
+
+Clone the project
+
+```bash
+  git clone  https://github.com/ray-mov/internshala-react-todo-assignment.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install Dependencies
+
+```bash
+  npm install
+```
+
+Start Development Server
+
+```bash
+npm run dev
+```
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## Tech Stack
+
+**Client:** HTML, CSS, Javascipt, Tailwind CSS,
+React, Vite
+
+## Authors
+
+- [@monov_ray](https://www.github.com/monov_ray)
